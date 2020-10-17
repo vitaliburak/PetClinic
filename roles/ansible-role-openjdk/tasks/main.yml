@@ -1,0 +1,6 @@
+---
+- name: Install OpenJDK
+  yum:
+    name:
+    - "java-{{ open_jdk_version }}-openjdk"
+    - maven

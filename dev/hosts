@@ -1,0 +1,2 @@
+[web]
+centos ansible_host=18.219.48.138 ansible_user=centos
